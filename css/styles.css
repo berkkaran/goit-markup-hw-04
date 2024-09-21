@@ -349,6 +349,9 @@ body {
   top: 40px;
 }
 .portfolio-item {
+  border-width: 0px 1px 1px 1px;
+  border-style: solid;
+  border-color: #e7e9fc;
   position: relative;
   overflow: hidden;
   width: 360px;
