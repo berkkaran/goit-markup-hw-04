@@ -275,10 +275,13 @@ body {
   gap: 24px;
   width: 40px;
   height: 40px;
-}
-.team-icons:hover {
+  border: 2px transparent;
+  transition: fill;
   transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+.team-icons:hover {
+  fill: #404bbf;
 }
 
 .our-portfolio {
@@ -398,6 +401,7 @@ body {
   margin: 12px;
   width: 40px;
   height: 40px;
+  border: 2px transparent;
   transition: fill;
   transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
