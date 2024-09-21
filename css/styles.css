@@ -277,6 +277,7 @@ body {
   width: 40px;
   height: 40px;
   border: 2px transparent;
+  fill: #4D5AE5;
   transition: fill;
   transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
@@ -396,7 +397,7 @@ body {
 .social-media {
   position: relative;
   left: 540px;
-  bottom: 190px;
+  bottom: 170px;
 }
 .social-media p {
   margin-bottom: 16px;
@@ -406,6 +407,7 @@ body {
   width: 40px;
   height: 40px;
   border: 2px transparent;
+  fill: #4D5AE5;
   transition: fill;
   transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
