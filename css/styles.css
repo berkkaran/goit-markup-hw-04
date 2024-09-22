@@ -276,14 +276,12 @@ body {
   gap: 24px;
   width: 40px;
   height: 40px;
-  border: 2px transparent;
-  fill: #4D5AE5;
-  transition: fill;
-  transition-duration: 250ms;
-  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
-.team-icons:hover {
-  fill: #404bbf;
+.icon-team {
+  transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+.icon-team:hover {
+  --color2: #404bbf;
 }
 
 .our-portfolio {
@@ -406,12 +404,10 @@ body {
   margin: 12px;
   width: 40px;
   height: 40px;
-  border: 2px transparent;
-  fill: #4D5AE5;
-  transition: fill;
-  transition-duration: 250ms;
-  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
-.footer-icons:hover {
-  fill: #31d0aa;
+.icon-footer {
+  transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+.icon-footer:hover {
+  --color2: #31d0aa;
 }
