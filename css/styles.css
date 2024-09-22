@@ -68,6 +68,7 @@ img {
 .nav-links a:active::after {
   content: "";
   border-bottom: 2px solid;
+  border-radius: 2px;
   background-color: #404bbf;
   width: 100%;
   height: 4px;
