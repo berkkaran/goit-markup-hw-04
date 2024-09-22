@@ -272,6 +272,7 @@ body {
   border-bottom-left-radius: 4px;
 }
 .team-icons {
+  margin:8px;
   padding-top: 10px;
   gap: 24px;
   width: 40px;
