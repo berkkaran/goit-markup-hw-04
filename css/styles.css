@@ -22,7 +22,7 @@ img {
   padding-bottom: 120px;
 }
 .page-header {
-  border-bottom: 0px 0px 1px 0px solid #e7e9fc;
+  border: 0px 0px 1px 0px solid #e7e9fc;
 }
 .container {
   width: 1158px;
