@@ -192,6 +192,7 @@ body {
   align-items: center;
   justify-content: center;
   gap: 24px;
+  
 }
 
 .features .features-title {
@@ -206,6 +207,7 @@ body {
   width: calc((100% - 72px) / 4);
   position: relative;
   bottom: 60px;
+  top: 10px;
 }
 .team-members {
   background-color: #f4f4fd;
